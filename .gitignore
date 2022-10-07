@@ -312,3 +312,4 @@ clang_tidy_fixes
 #mongodb
 /db-data
 /db-data*
+*/db-data
